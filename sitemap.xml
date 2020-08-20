@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://radiotechotiba.co/index.html</loc>
+    <lastmod>2020-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://radiotechotiba.co/phone/index.html"/>
+    <image:image>
+      <image:loc>http://radiotechotiba.co/images/labmariposa.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://radiotechotiba.co/images/letra%20radio.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://radiotechotiba.co/images/fondo%20ruido520x293.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://radiotechotiba.co/images/reproductor%20radio213x177.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

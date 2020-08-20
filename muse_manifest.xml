@@ -1,0 +1,49 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="radiotechotiba.co" resolutions="1x" timestamp="1597894503644">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="378997399" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3894364976" seo="true" mt="1597894469467" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4279481039" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="3939489907" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="128606099" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:phone>index"/>
+    <file name="require.js" crc="4177726516" ref="index:phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="fondo ruido.jpg" crc="3940882112" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="labmariposa.gif" crc="3921365099" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="letra radio.png" crc="3881524879" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reproductor radio.png" crc="4059649724" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="onda.png" crc="4148240836" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rt.png" crc="4091017246" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fondo ruido520x293.jpg" crc="4158633715" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reproductor radio213x177.png" crc="142885981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="453693637" seo="true" mt="1597894368728" redirect="true"/>
+</manifest>

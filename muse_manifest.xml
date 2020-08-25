@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="radiotechotiba.co" resolutions="1x" timestamp="1598374452490">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="radiotechotiba.co" resolutions="1x" timestamp="1598374745783">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="502996079" ref="phone>index"/>
+      <file name="index.css" crc="4079232899" ref="phone>index"/>
       <file name="master_a-p_g_-maestra.css" crc="90157828" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3821760769" seo="true" mt="1598370642786" redirect="true"/>
+    <file name="index.html" crc="270919431" seo="true" mt="1598374726839" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>

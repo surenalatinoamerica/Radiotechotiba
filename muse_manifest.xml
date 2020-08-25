@@ -1,9 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="radiotechotiba.co" resolutions="1x" timestamp="1598367465578">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="radiotechotiba.co" resolutions="1x" timestamp="1598369801490">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4049668825" ref="phone>index"/>
+      <file name="index.css" crc="3774851372" ref="phone>index"/>
+      <file name="master_a-p_g_-maestra.css" crc="90157828" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="242051736" seo="true" mt="1598366948039" redirect="true"/>
+    <file name="index.html" crc="274048656" seo="true" mt="1598369582394" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -21,13 +22,16 @@
     <file name="labmariposa.gif" crc="3921365099" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="radiotecho repro.png" crc="183676934" seo="true" ref="phone>index:index">
+    <file name="radiotecho repro.png" crc="108341387" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="unaproduccion.png" crc="501905633" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="piedepagina repro.png" crc="4186722188" seo="true" ref="phone>index:index">
+    <file name="piedepagina repro.png" crc="232441695" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="youtube.png" crc="477466959" seo="true" ref="phone>index">
@@ -39,15 +43,15 @@
     <file name="instagram.png" crc="35227156" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fondo repro-crop-u306.png" crc="4037270721" seo="true" ref="index">
+    <file name="fondo repro-crop-u306.png" crc="4281291572" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo lab.png" crc="4177388537" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fondo movil-crop-u346.png" crc="498264219" seo="true" ref="phone>index">
+    <file name="fondo movil-crop-u425.png" crc="194496998" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="179732892" seo="true" mt="1598367188041" redirect="true"/>
+  <file name="index.html" crc="518936289" seo="true" mt="1598368611845" redirect="true"/>
 </manifest>
